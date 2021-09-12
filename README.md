@@ -1,4 +1,4 @@
-**Eve: The Virtual_Assistant**
+# Eve: The Virtual Assistant
 
 A Simple Virtual Assistant written in Python to help your basic needs! Uses Speech to Text and Text to Speech technology, allowing for a unique interaction with the chatbot. Requires an initial Wake word (Eve) and can respond to a number of queries. Works both online and offline.
 
